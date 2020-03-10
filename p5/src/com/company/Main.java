@@ -24,6 +24,10 @@ public class Main {
         int myInt = 50;
         lastString = lastString+myInt;
         System.out.println("last string is equal to " + lastString);
+        double doubleNum = 126d;
+        lastString += doubleNum;
+        System.out.println(lastString);
+
 
     }
 }
