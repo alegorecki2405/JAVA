@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a28da2f-d7a3-4f6d-8bfc-8fd2f792d8f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumOddRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SumOddRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="29" />
+            <state relative-caret-position="638">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -93,26 +92,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -169,6 +149,7 @@
       <workItem from="1584738291880" duration="2103000" />
       <workItem from="1584797620069" duration="1779000" />
       <workItem from="1584826997239" duration="734000" />
+      <workItem from="1584895840818" duration="69000" />
     </task>
     <task id="LOCAL-00001" summary="just practicing">
       <created>1584459850782</created>
@@ -233,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584827733023</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="another one">
+      <created>1584895854764</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584895854764</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13900000" />
+    <option name="totallyTimeSpent" value="13969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -376,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SumOddRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="29" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
