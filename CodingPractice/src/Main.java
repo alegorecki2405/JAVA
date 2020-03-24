@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        FactorPrinter.printFactors(4);
+        System.out.println(PerfectNumber.isPerfectNumber(6));
     }
 }
