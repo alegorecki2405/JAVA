@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        NumberToWords.numberToWords(12300);
+        System.out.println(LargestPrime.getLargestPrime(7));
     }
 }
