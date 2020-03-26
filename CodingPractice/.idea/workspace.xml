@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a28da2f-d7a3-4f6d-8bfc-8fd2f792d8f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingPractice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+            <state relative-caret-position="653">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
@@ -94,9 +91,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="y" value="5" />
     <option name="width" value="974" />
-    <option name="height" value="1042" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,7 +180,8 @@
       <workItem from="1584895840818" duration="69000" />
       <workItem from="1584902289531" duration="11925000" />
       <workItem from="1584983220361" duration="4230000" />
-      <workItem from="1585071389478" duration="4348000" />
+      <workItem from="1585071389478" duration="4464000" />
+      <workItem from="1585239760040" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="just practicing">
       <created>1584459850782</created>
@@ -298,14 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585071840679</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="number to words">
+      <created>1585091846541</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585091846541</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34472000" />
+    <option name="totallyTimeSpent" value="34987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="5" width="974" height="1042" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.32666665" />
@@ -317,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29445073" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29445073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,7 +355,8 @@
     <MESSAGE value="lastdigitcheckerequal" />
     <MESSAGE value="factor printer" />
     <MESSAGE value="perfect number" />
-    <option name="LAST_COMMIT_MESSAGE" value="perfect number" />
+    <MESSAGE value="number to words" />
+    <option name="LAST_COMMIT_MESSAGE" value="number to words" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MegaBytesConverter.java">
@@ -502,13 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/numb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/numb.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -518,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberToWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        <state relative-caret-position="653">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
         </state>
       </provider>
     </entry>
