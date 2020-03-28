@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a28da2f-d7a3-4f6d-8bfc-8fd2f792d8f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReadingUserInputChallange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinAndMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../p12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../p12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../p12/out/production/p12/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../p12/out/production/p12/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../p12/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../p12/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,16 +28,16 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ReadingUserInputChallange.java">
+        <entry file="file://$PROJECT_DIR$/src/MinAndMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="547">
+              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -92,12 +90,13 @@
         <option value="$PROJECT_DIR$/src/FlourPacker.java" />
         <option value="$PROJECT_DIR$/src/LargestPrime.java" />
         <option value="$PROJECT_DIR$/src/DiagonalStar.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ReadingUserInputChallange.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/MinAndMax.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -192,7 +191,7 @@
       <workItem from="1585239760040" duration="611000" />
       <workItem from="1585241094672" duration="4832000" />
       <workItem from="1585311987183" duration="3559000" />
-      <workItem from="1585395407598" duration="73000" />
+      <workItem from="1585395407598" duration="2801000" />
     </task>
     <task id="LOCAL-00001" summary="just practicing">
       <created>1584459850782</created>
@@ -334,17 +333,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585328713386</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="sum of 10">
+      <created>1585395500324</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585395500324</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43663000" />
+    <option name="totallyTimeSpent" value="46391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35777777" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35777777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2454955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24526198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -363,7 +369,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32995495" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3265766" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3231982" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -390,7 +396,8 @@
     <MESSAGE value="number to words" />
     <MESSAGE value="largest prime factor" />
     <MESSAGE value="diagonal star" />
-    <option name="LAST_COMMIT_MESSAGE" value="diagonal star" />
+    <MESSAGE value="sum of 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of 10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MegaBytesConverter.java">
@@ -570,17 +577,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReadingUserInputChallange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinAndMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>
     </entry>
