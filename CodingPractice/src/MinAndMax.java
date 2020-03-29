@@ -36,6 +36,7 @@ public class MinAndMax {
 
                         System.out.println("Maximu number is equal to : "+max);
                         System.out.println("Minimum number is equal to : "+min);
+                        scanner.close();
                         break;
                     }
 
@@ -46,9 +47,10 @@ public class MinAndMax {
             {
                 scanner.nextLine();
                 System.out.println("you passed the invalid numbers so there is no max and min");
-
+                scanner.close();
                 break;
             }
+
         }
 
 
