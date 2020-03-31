@@ -18,7 +18,8 @@ public class InputCalculator {
             }
             else
             {
-                long srednia = suma/ licznik;
+                double sr = (double) suma/ (double) licznik;
+                long srednia = Math.round(sr);
                 System.out.println("SUM = "+suma+" AVG = "+srednia);
                 break;
             }
