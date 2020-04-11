@@ -19,4 +19,10 @@ public class Truck extends Car{
     {
         System.out.println("piiiiiibbbiiibiiiibbbpppp");
     }
+
+    @Override
+    public void stop() {
+        super.stop();
+        System.out.println("the truck has stopped");
+    }
 }
