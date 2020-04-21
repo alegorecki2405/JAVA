@@ -4,11 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/PlayingCat.java" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a28da2f-d7a3-4f6d-8bfc-8fd2f792d8f2" name="Default Changelist" comment="paint job">
-      <change afterPath="$PROJECT_DIR$/src/SortArray.java" afterDir="false" />
+    <list default="true" id="9a28da2f-d7a3-4f6d-8bfc-8fd2f792d8f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingPractice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/PaintJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingPractice/PaintJob.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,21 +25,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortArray.java">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="44">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ReverseArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            <state relative-caret-position="418">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FindMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,8 +106,10 @@
         <option value="$PROJECT_DIR$/src/InputCalculator.java" />
         <option value="$PROJECT_DIR$/src/PaintJob.java" />
         <option value="$PROJECT_DIR$/src/sortarray.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/SortArray.java" />
+        <option value="$PROJECT_DIR$/src/FindMin.java" />
+        <option value="$PROJECT_DIR$/src/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -201,7 +212,8 @@
       <workItem from="1585506419485" duration="2971000" />
       <workItem from="1585673695383" duration="4316000" />
       <workItem from="1585758991407" duration="709000" />
-      <workItem from="1587327235735" duration="3217000" />
+      <workItem from="1587327235735" duration="3231000" />
+      <workItem from="1587478504541" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="just practicing">
       <created>1584459850782</created>
@@ -378,17 +390,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585691832404</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="arrays">
+      <created>1587331913815</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1587331913815</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57623000" />
+    <option name="totallyTimeSpent" value="59357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +416,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24324325" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +457,8 @@
     <MESSAGE value="max and min" />
     <MESSAGE value="input calculator" />
     <MESSAGE value="paint job" />
-    <option name="LAST_COMMIT_MESSAGE" value="paint job" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MegaBytesConverter.java">
@@ -646,17 +666,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
         </state>
       </provider>
     </entry>
