@@ -3,6 +3,14 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        MobilePhone tele = new MobilePhone();
+        tele.addContact("olek","782834458");
+        tele.addContact("mama","693616245");
+        tele.searchContact("olek");
+
+        tele.modifyContact("mama","ania","693616245");
+        tele.searchContact("olek");
+
 
     }
 }

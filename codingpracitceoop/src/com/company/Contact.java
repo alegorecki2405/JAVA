@@ -24,4 +24,9 @@ public class Contact {
     public void setPhonenumber(String phonenumber) {
         this.phonenumber = phonenumber;
     }
+
+    public static Contact createContact(String name,String phonenumber)
+    {
+        return new Contact(name,phonenumber);
+    }
 }
