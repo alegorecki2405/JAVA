@@ -15,6 +15,11 @@ public class Main {
         saveObject(olek);
         loadObject(olek);
         System.out.println(olek);
+
+        ISaveable werewolf = new Monster("werewolf",20,40);
+
+        System.out.println(((Monster) werewolf).getStrenght());
+        saveObject(werewolf);
     }
     public static ArrayList<String> readValues(){
         ArrayList<String> values = new ArrayList<>();
@@ -28,6 +33,7 @@ public class Main {
         while (!quit){
             System.out.println("chose an option");
             int choice = scanner.nextInt();
+            scanner.nextLine();
             switch (choice){
                 case 0:
                     quit=true;
